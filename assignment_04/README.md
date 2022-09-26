@@ -1,0 +1,2 @@
+Browsers act as renderers and translators for the code programmed with html and javascript. They allow the user to easily find pages made using these languages and can help in storing the data that makes up various internet pages.
+Screenshot (303).png

@@ -1,0 +1,2 @@
+Universal selectors are used to select every element of an html page. Element selectors are used to select elements of a specific type. Class selectors are useful when selecting elements that serve the same function. ID selectors allow developers to deine specific style rules for one element with a unique ID.
+I played around a bit and took some colors from the example video.

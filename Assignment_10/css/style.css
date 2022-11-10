@@ -1,0 +1,10 @@
+body {
+    background-color:bisque
+    font-family: Didot;
+    text-align: left;
+}
+
+div {
+    border: 10px solid brown
+    display: inline-block;
+}

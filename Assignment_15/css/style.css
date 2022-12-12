@@ -1,0 +1,160 @@
+
+h1{
+    color: plum;
+    font-family: Merriweather;
+    font-size: 100px;
+    letter-spacing: 0.3em;
+}
+
+.titleBorder{
+    height: 200px;
+    background-color: rgb(167, 104, 167);
+    color: lightblue;
+    width: 100%;
+    overflow: auto;
+}
+
+#first-bar {
+    margin-top: 4em;
+    padding: 1em;
+}
+
+.titleBorder:hover{
+    background-color: lightblue;
+    color: rgb(224, 118, 224)
+}
+
+.subtitle{
+    padding-top: 50px;
+    font-size: 75px;
+    margin: auto;
+}
+
+.content-paragraph{
+    margin: auto;
+    color: #333;
+    font-size: 20px;
+    line-height: 26px;
+    max-width: 640px;
+    font-family: Quicksand;
+}
+
+.content-paragraph::first-line{
+    font-size: 50px;
+    font-family: Quicksand;
+    line-height: 100px;
+    font-weight: Bold;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-left: 25%;
+}
+
+img {
+    border: 20px solid plum;
+}
+
+#img-link:hover{
+    border: 50px solid #E81C23;
+}
+
+.centered-thing {
+    position:absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -10%);
+}
+
+iframe {
+    border: 20px solid plum;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+/* Menu */
+header {
+    position: fixed;
+    top: 0px;
+    background-color: plum; 
+    margin-top: 0;
+    height: 4em;
+    width: 99%;
+    text-align: right;
+    font-family: Merriweather;
+    padding-right: 3em;
+}
+
+/* Set the layout of the menu: */
+.menu-item {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 5em;
+    text-align: center;
+    background-color: plum;
+    padding: .5em .5em;
+    border-radius: 5em ;
+    font-size: x-large;
+    font-family: Quicksand;
+    
+}
+
+.site-name {
+    color: blue;
+    margin: 1em .2em;
+    min-width: 6em;
+    padding: 0.5em 1em;
+    border-radius: 1em;
+    letter-spacing: 0.3em;
+    float: left;
+    font-weight: bold;
+}
+
+/* Style the links: */
+.menu-item a {
+    color: blue;
+    text-decoration: none;
+}
+
+
+#foundation:hover{
+    border-radius: 0em 0em 1em 1em;
+}
+
+/* footer */
+footer {
+    width: 100%;
+    background-color:rgb(167, 104, 167) ;
+    height: 3em;
+    text-align: center;
+    font-family: Quicksand;
+    padding-top: 1em;
+}
+
+#footer-link {
+    color: blue b;
+    font-weight: bold;
+}
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
